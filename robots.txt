@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /private/
+Allow: /
+
+Sitemap: https://uuidgenerator.yesnomark.com/sitemap.xml
